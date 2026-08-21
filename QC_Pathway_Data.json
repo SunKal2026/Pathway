@@ -1,0 +1,636 @@
+{
+  "athletes": [
+    {
+      "id": 1,
+      "name": "Marnus Labuschagne",
+      "pg": "Middle Order Batters",
+      "club": "",
+      "status": "identified",
+      "squad": "Bulls",
+      "cat": "Developing"
+    },
+    {
+      "id": 2,
+      "name": "Matthew Renshaw",
+      "pg": "Opening Batters",
+      "club": "",
+      "status": "identified",
+      "squad": "Bulls",
+      "cat": "Developing"
+    },
+    {
+      "id": 3,
+      "name": "Jack Clayton",
+      "pg": "Middle Order Batters",
+      "club": "",
+      "status": "identified",
+      "squad": "Bulls",
+      "cat": "Developing"
+    },
+    {
+      "id": 4,
+      "name": "Lachlan Hearne",
+      "pg": "Middle Order Batters",
+      "club": "",
+      "status": "identified",
+      "squad": "Bulls",
+      "cat": "Developing"
+    },
+    {
+      "id": 5,
+      "name": "Hugo Burdon",
+      "pg": "Opening Batters",
+      "club": "",
+      "status": "identified",
+      "squad": "Bulls",
+      "cat": "Developing"
+    },
+    {
+      "id": 6,
+      "name": "Angus Lovell",
+      "pg": "Spin Bowlers",
+      "club": "",
+      "status": "identified",
+      "squad": "Bulls",
+      "cat": "Developing"
+    },
+    {
+      "id": 7,
+      "name": "James Peirson",
+      "pg": "Wicket Keepers",
+      "club": "",
+      "status": "identified",
+      "squad": "Bulls",
+      "cat": "Developing"
+    },
+    {
+      "id": 8,
+      "name": "Hugh Weibgen",
+      "pg": "Middle Order Batters",
+      "club": "",
+      "status": "identified",
+      "squad": "Bulls",
+      "cat": "Developing"
+    },
+    {
+      "id": 9,
+      "name": "Dylan McLachlan",
+      "pg": "Wicket Keepers",
+      "club": "",
+      "status": "identified",
+      "squad": "Bulls",
+      "cat": "Developing"
+    },
+    {
+      "id": 10,
+      "name": "Michael Neser",
+      "pg": "Bowling All-Rounders",
+      "club": "",
+      "status": "identified",
+      "squad": "Bulls",
+      "cat": "Developing"
+    },
+    {
+      "id": 11,
+      "name": "Xavier Bartlett",
+      "pg": "Pace Bowlers",
+      "club": "",
+      "status": "identified",
+      "squad": "Bulls",
+      "cat": "Developing"
+    },
+    {
+      "id": 12,
+      "name": "Jack Wildermuth",
+      "pg": "Bowling All-Rounders",
+      "club": "",
+      "status": "identified",
+      "squad": "Bulls",
+      "cat": "Developing"
+    },
+    {
+      "id": 13,
+      "name": "Hayden Kerr",
+      "pg": "Bowling All-Rounders",
+      "club": "",
+      "status": "identified",
+      "squad": "Bulls",
+      "cat": "Developing"
+    },
+    {
+      "id": 14,
+      "name": "Cameron Gannon",
+      "pg": "Pace Bowlers",
+      "club": "",
+      "status": "identified",
+      "squad": "Bulls",
+      "cat": "Developing"
+    },
+    {
+      "id": 15,
+      "name": "Callum Vidler",
+      "pg": "Pace Bowlers",
+      "club": "",
+      "status": "identified",
+      "squad": "Bulls",
+      "cat": "Developing"
+    },
+    {
+      "id": 16,
+      "name": "Mark Steketee",
+      "pg": "Pace Bowlers",
+      "club": "",
+      "status": "identified",
+      "squad": "Bulls",
+      "cat": "Developing"
+    },
+    {
+      "id": 17,
+      "name": "Tom Balkin",
+      "pg": "Pace Bowlers",
+      "club": "",
+      "status": "identified",
+      "squad": "Bulls",
+      "cat": "Developing"
+    },
+    {
+      "id": 18,
+      "name": "Jem Ryan",
+      "pg": "Pace Bowlers",
+      "club": "",
+      "status": "identified",
+      "squad": "Bulls",
+      "cat": "Developing"
+    },
+    {
+      "id": 19,
+      "name": "Tom Straker",
+      "pg": "Pace Bowlers",
+      "club": "",
+      "status": "identified",
+      "squad": "Bulls",
+      "cat": "Developing"
+    },
+    {
+      "id": 20,
+      "name": "Tom Whitney",
+      "pg": "Pace Bowlers",
+      "club": "",
+      "status": "identified",
+      "squad": "Bulls",
+      "cat": "Developing"
+    },
+    {
+      "id": 22,
+      "name": "Max Bryant",
+      "pg": "Middle Order Batters",
+      "club": "",
+      "status": "identified",
+      "squad": "2nd XI",
+      "cat": "Developing"
+    },
+    {
+      "id": 23,
+      "name": "Palombo",
+      "pg": "Middle Order Batters",
+      "club": "",
+      "status": "identified",
+      "squad": "2nd XI",
+      "cat": "Developing"
+    },
+    {
+      "id": 25,
+      "name": "Jackson Sinfield",
+      "pg": "Spin Bowlers",
+      "club": "",
+      "status": "identified",
+      "squad": "2nd XI",
+      "cat": "Developing"
+    },
+    {
+      "id": 63,
+      "name": "Aryan Jain",
+      "pg": "Opening Batters",
+      "club": "",
+      "status": "identified",
+      "squad": "2nd XI",
+      "cat": "Developing"
+    },
+    {
+      "id": 64,
+      "name": "Tom Campbell",
+      "pg": "Middle Order Batters",
+      "club": "",
+      "status": "identified",
+      "squad": "2nd XI",
+      "cat": "Developing"
+    },
+    {
+      "id": 65,
+      "name": "Steve McGiffin",
+      "pg": "Batting All-Rounders",
+      "club": "Wests",
+      "status": "identified",
+      "squad": "2nd XI",
+      "cat": "Developing"
+    },
+    {
+      "id": 66,
+      "name": "Snell",
+      "pg": "Middle Order Batters",
+      "club": "",
+      "status": "identified",
+      "squad": "2nd XI",
+      "cat": "Developing"
+    },
+    {
+      "id": 67,
+      "name": "Saxon Jeh",
+      "pg": "Middle Order Batters",
+      "club": "",
+      "status": "identified",
+      "squad": "2nd XI",
+      "cat": "Developing"
+    },
+    {
+      "id": 68,
+      "name": "Geyer",
+      "pg": "Pace Bowlers",
+      "club": "",
+      "status": "identified",
+      "squad": "2nd XI",
+      "cat": "Developing"
+    },
+    {
+      "id": 69,
+      "name": "Skelly",
+      "pg": "Pace Bowlers",
+      "club": "",
+      "status": "identified",
+      "squad": "2nd XI",
+      "cat": "Developing"
+    },
+    {
+      "id": 70,
+      "name": "Sanders",
+      "pg": "Middle Order Batters",
+      "club": "",
+      "status": "identified",
+      "squad": "2nd XI",
+      "cat": "Developing"
+    },
+    {
+      "id": 71,
+      "name": "Hugh Taylor",
+      "pg": "Middle Order Batters",
+      "club": "",
+      "status": "identified",
+      "squad": "2nd XI",
+      "cat": "Developing"
+    },
+    {
+      "id": 72,
+      "name": "Benji Floros",
+      "pg": "Pace Bowlers",
+      "club": "Ipswich",
+      "status": "identified",
+      "squad": "2nd XI",
+      "cat": "Developing"
+    },
+    {
+      "id": 73,
+      "name": "Zac McDermott",
+      "pg": "Middle Order Batters",
+      "club": "",
+      "status": "identified",
+      "squad": "2nd XI",
+      "cat": "Developing"
+    },
+    {
+      "id": 29,
+      "name": "Steven Hogan",
+      "pg": "Middle Order Batters",
+      "club": "Sandgate",
+      "status": "identified",
+      "squad": "U19",
+      "cat": "Developing"
+    },
+    {
+      "id": 32,
+      "name": "Sohann Sharma",
+      "pg": "Middle Order Batters",
+      "club": "Wests",
+      "status": "identified",
+      "squad": "U19",
+      "cat": "Developing"
+    },
+    {
+      "id": 34,
+      "name": "Ben Gordon",
+      "pg": "Pace Bowlers",
+      "club": "Sunshine Coast",
+      "status": "identified",
+      "squad": "U19",
+      "cat": "Developing"
+    },
+    {
+      "id": 36,
+      "name": "Thomas Town",
+      "pg": "Pace Bowlers",
+      "club": "Sunshine Coast",
+      "status": "identified",
+      "squad": "U19",
+      "cat": "Developing"
+    },
+    {
+      "id": 37,
+      "name": "Tom King",
+      "pg": "Pace Bowlers",
+      "club": "",
+      "status": "identified",
+      "squad": "U19",
+      "cat": "Developing"
+    },
+    {
+      "id": 38,
+      "name": "Charlie Kruger",
+      "pg": "Pace Bowlers",
+      "club": "Ipswich",
+      "status": "identified",
+      "squad": "U19",
+      "cat": "Developing"
+    },
+    {
+      "id": 39,
+      "name": "Cale Anderson",
+      "pg": "Bowling All-Rounders",
+      "club": "Brothers Bundaberg",
+      "status": "identified",
+      "squad": "U19",
+      "cat": "Developing"
+    },
+    {
+      "id": 40,
+      "name": "Arush Sharma",
+      "pg": "Bowling All-Rounders",
+      "club": "University",
+      "status": "identified",
+      "squad": "U19",
+      "cat": "Developing"
+    },
+    {
+      "id": 41,
+      "name": "Lachlan Pask",
+      "pg": "Bowling All-Rounders",
+      "club": "Redlands",
+      "status": "identified",
+      "squad": "U19",
+      "cat": "Developing"
+    },
+    {
+      "id": 43,
+      "name": "Dushyant Thaman",
+      "pg": "Spin Bowlers",
+      "club": "Souths",
+      "status": "identified",
+      "squad": "U19",
+      "cat": "Developing"
+    },
+    {
+      "id": 44,
+      "name": "Lakshdeep Singh",
+      "pg": "Spin Bowlers",
+      "club": "Sandgate",
+      "status": "identified",
+      "squad": "U19",
+      "cat": "Developing"
+    },
+    {
+      "id": 45,
+      "name": "Gurutva Singh",
+      "pg": "Spin Bowlers",
+      "club": "South Brisbane",
+      "status": "identified",
+      "squad": "U19",
+      "cat": "Developing"
+    },
+    {
+      "id": 47,
+      "name": "Alex Walduck",
+      "pg": "Wicket Keepers",
+      "club": "University",
+      "status": "identified",
+      "squad": "U19",
+      "cat": "Developing"
+    },
+    {
+      "id": 48,
+      "name": "Ryan Atley",
+      "pg": "Wicket Keepers",
+      "club": "Wests",
+      "status": "identified",
+      "squad": "U19",
+      "cat": "Developing"
+    },
+    {
+      "id": 49,
+      "name": "Rhys Johnston",
+      "pg": "Wicket Keepers",
+      "club": "Cairns",
+      "status": "identified",
+      "squad": "U19",
+      "cat": "Developing"
+    },
+    {
+      "id": 50,
+      "name": "Ishaan Sandhu",
+      "pg": "Middle Order Batters",
+      "club": "Souths",
+      "status": "identified",
+      "squad": "U17",
+      "cat": "Developing"
+    },
+    {
+      "id": 51,
+      "name": "Jaxson Davies",
+      "pg": "Middle Order Batters",
+      "club": "Gold Coast",
+      "status": "identified",
+      "squad": "U17",
+      "cat": "Developing"
+    },
+    {
+      "id": 52,
+      "name": "Theodore Bacalakis",
+      "pg": "Middle Order Batters",
+      "club": "University",
+      "status": "identified",
+      "squad": "U17",
+      "cat": "Developing"
+    },
+    {
+      "id": 53,
+      "name": "Eli Brain",
+      "pg": "Middle Order Batters",
+      "club": "Norths",
+      "status": "identified",
+      "squad": "U17",
+      "cat": "Developing"
+    },
+    {
+      "id": 54,
+      "name": "Charlie Henderson",
+      "pg": "Wicket Keepers",
+      "club": "University",
+      "status": "identified",
+      "squad": "U17",
+      "cat": "Developing"
+    },
+    {
+      "id": 55,
+      "name": "Daniel Desmet",
+      "pg": "Middle Order Batters",
+      "club": "Valleys",
+      "status": "identified",
+      "squad": "U17",
+      "cat": "Developing"
+    },
+    {
+      "id": 56,
+      "name": "Charles Hinze",
+      "pg": "Spin Bowlers",
+      "club": "",
+      "status": "identified",
+      "squad": "U17",
+      "cat": "Developing"
+    },
+    {
+      "id": 57,
+      "name": "Callum Pamenter",
+      "pg": "Bowling All-Rounders",
+      "club": "Wests",
+      "status": "identified",
+      "squad": "U17",
+      "cat": "Developing"
+    },
+    {
+      "id": 58,
+      "name": "Finn Vikionkorpi",
+      "pg": "Pace Bowlers",
+      "club": "Sandgate",
+      "status": "identified",
+      "squad": "U17",
+      "cat": "Developing"
+    },
+    {
+      "id": 59,
+      "name": "Spencer Green",
+      "pg": "Spin Bowlers",
+      "club": "Toombul",
+      "status": "identified",
+      "squad": "U17",
+      "cat": "Developing"
+    },
+    {
+      "id": 60,
+      "name": "Fraser Judd",
+      "pg": "Middle Order Batters",
+      "club": "Toombul",
+      "status": "identified",
+      "squad": "U17",
+      "cat": "Developing"
+    },
+    {
+      "id": 61,
+      "name": "Theo Tsingos",
+      "pg": "Pace Bowlers",
+      "club": "Norths",
+      "status": "identified",
+      "squad": "U17",
+      "cat": "Developing"
+    },
+    {
+      "id": 62,
+      "name": "Thomas Vaseo",
+      "pg": "Pace Bowlers",
+      "club": "Redlands",
+      "status": "identified",
+      "squad": "U17",
+      "cat": "Developing"
+    }
+  ],
+  "movementLog": [],
+  "roleHealth": {
+    "Opening Batters": {
+      "U17": "grey",
+      "U19": "grey",
+      "2nd XI": "grey",
+      "Bulls": "grey"
+    },
+    "Middle Order Batters": {
+      "U17": "grey",
+      "U19": "grey",
+      "2nd XI": "grey",
+      "Bulls": "grey"
+    },
+    "Batting All-Rounders": {
+      "U17": "grey",
+      "U19": "grey",
+      "2nd XI": "grey",
+      "Bulls": "grey"
+    },
+    "Bowling All-Rounders": {
+      "U17": "grey",
+      "U19": "grey",
+      "2nd XI": "grey",
+      "Bulls": "grey"
+    },
+    "Pace Bowlers": {
+      "U17": "grey",
+      "U19": "grey",
+      "2nd XI": "grey",
+      "Bulls": "grey"
+    },
+    "Spin Bowlers": {
+      "U17": "grey",
+      "U19": "grey",
+      "2nd XI": "grey",
+      "Bulls": "grey"
+    },
+    "Wicket Keepers": {
+      "U17": "grey",
+      "U19": "grey",
+      "2nd XI": "grey",
+      "Bulls": "grey"
+    },
+    "Leadership": {
+      "U17": "grey",
+      "U19": "grey",
+      "2nd XI": "grey",
+      "Bulls": "grey"
+    }
+  },
+  "gateData": {
+    "U17→U19": {
+      "status": "monitor",
+      "reason": "",
+      "history": ""
+    },
+    "U19→2nd XI": {
+      "status": "monitor",
+      "reason": "",
+      "history": ""
+    },
+    "2nd XI→Bulls": {
+      "status": "monitor",
+      "reason": "",
+      "history": ""
+    }
+  },
+  "opportunities": [],
+  "squadYearView": {},
+  "nextId": 74,
+  "nextOppId": 1,
+  "currentGroup": "Opening Batters",
+  "visMode": "identified"
+}
